@@ -6,7 +6,7 @@ public class PracticeC {
 
         System.out.println("herhangi birsey");
         System.out.println("baska birsey");
-
+        System.out.println("19 Nisan deneme");
         
     }
 }
